@@ -6,6 +6,11 @@ When I work with forms I like to Write Business logics more than the Html so tha
 
 https://stackblitz.com/edit/angular-fdmkrs
 
-//Extended version of above example where edit is also there.
+// Extended version of above example where edit is also there.
 
 https://stackblitz.com/edit/angular-rv7jtn-hee1gk
+
+// There are few times when angular doesn't get the changes in HTML.
+// Here it is the thing to do when formly is not able to detect the changes in dom you need to set the value and do the detectChanges() manually.
+
+https://stackblitz.com/edit/angular-47rdkm-3s4opz?file=src/app/app.component.ts
