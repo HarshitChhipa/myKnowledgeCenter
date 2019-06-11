@@ -1,0 +1,6 @@
+Here are the issues I got when I am working with ubuntu and their solutions.
+
+--> Working with webpack watches are must.Sometimes you use more the normal limits.
+--> To start the watches DO THIS.
+
+sudo sysctl fs.inotify.max_user_watches=524288
