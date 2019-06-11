@@ -1,0 +1,4 @@
+This file contains all my new finding about JS.
+--> There is a function to check and array same as php named as isArray.
+
+https://medium.com/dailyjs/better-array-check-with-array-isarray-dae0283263be
