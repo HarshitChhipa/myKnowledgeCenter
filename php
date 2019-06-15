@@ -12,3 +12,16 @@ function fibonacci($n)
 }
 
 fibonacci(6); // [0, 1, 1, 2, 3, 5]
+
+########################################################################################################3
+
+endsWith
+
+Check if a string is ends with a given substring.
+
+function endsWith($haystack, $needle)
+{
+    return strrpos($haystack, $needle) === (strlen($haystack) - strlen($needle));
+}
+
+endsWith('Hi, this is me', 'me'); // true
