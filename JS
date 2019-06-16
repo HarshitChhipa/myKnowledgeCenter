@@ -20,3 +20,20 @@ const memoize = fn => {
     return result
   }
 }
+
+############################################################################ NEW FINDINGS ###################################
+
+What is the purpose of callback function as an argument of setState?
+
+The callback function is invoked when setState has finished and the component gets rendered. 
+Since setState is asynchronous, the callback function is used for any post action.
+
+setState({ name: "Harshit" }, () => {
+  console.log("The name has updated and component re-rendered")
+})
+
+Extra
+The callback function is invoked after setState finishes and is used for any post action.
+It is recommended to use lifecycle method rather this callback function.
+
+################################################################################# ENDS HERE ##################################
