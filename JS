@@ -49,3 +49,27 @@ In a browser, this API is available to JavaScript where DOM nodes can be manipul
 The DOM is constructed progressively in the browser as a page loads, which is why scripts are often placed at the bottom of a page, in the <head> with a defer attribute, or inside a DOMContentLoaded event listener. Scripts that manipulate DOM nodes should be run after the DOM has been constructed to avoid errors.
 document.getElementById() and document.querySelector() are common functions for selecting DOM nodes.
 Setting the innerHTML property to a new value runs the string through the HTML parser, offering an easy way to append dynamic HTML content to a node.
+
+################################################################################# ENDS HERE ##################################
+
+################################################################################# NEW  #######################################
+
+--> What is short-circuit evaluation in JavaScript?
+Short-circuit evaluation involves logical operations evaluating from left-to-right and stopping early.
+--> eg. --> true || false
+we know that it is true and it is a or statement so no need to check further.
+Its major use in Vanila JS.
+
+// Instead of:
+addEventListener("click", e => {
+  if (e.target.closest("button")) {
+    handleButtonClick(e)
+  }
+})
+
+// You can take advantage of short-circuit evaluation:
+addEventListener(
+  "click",
+  e => e.target.closest("button") && handleButtonClick(e)
+)
+############################################################## ENDS HERE  ####################################################
