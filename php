@@ -25,3 +25,16 @@ function endsWith($haystack, $needle)
 }
 
 endsWith('Hi, this is me', 'me'); // true
+
+################################################# ENDS HERE ###############################################################
+################################################# Starts Here #############################################################
+ --> Without Function.
+ 
+ Filters out the elements of an array, that have one of the specified values.
+function without($items, ...$params)
+{
+    return array_values(array_diff($items, $params));
+}
+
+Usage-->
+without([2, 1, 2, 3], 1, 2); // [3]
