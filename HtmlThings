@@ -1,1 +1,15 @@
 
+To put a search icon inside bootstrap input.
+  <div class="form-group">
+    <div class="input-group">
+      <span class="input-group-append">
+        <div
+          class="input-group-text bg-transparent border-right-0">
+          <i class="fa fa-search"></i>
+        </div>
+      </span>
+      <input class="px-1 form-control border-left-0 border"
+             type="search"
+             id="example-search-input">
+    </div>
+  </div>
