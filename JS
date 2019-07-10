@@ -93,3 +93,11 @@ const map = (arr, callback) => {
   return result
 }
 map([1, 2, 3, 4, 5], n => n * 2) // [2, 4, 6, 8, 10]
+
+############################################################# Assigning ###################################################
+Sometimes using = operator can make issue to your script coz somehow when you do assigning a object to another object assiging to the new object gives the wrights to change in tha original change
+when any change happened to the new assigned object and this is not what we want so to prevent this we do these things.
+
+-> const obj = { a: 1, b: 2 }
+const shallowClone = { ...obj }
+Using the spread operator.
