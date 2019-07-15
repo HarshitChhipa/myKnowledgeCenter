@@ -13,3 +13,7 @@ To put a search icon inside bootstrap input.
              id="example-search-input">
     </div>
   </div>
+
+############################################################### Starts ###################################################
+
+npm install @fortawesome/fontawesome-free-webfonts
