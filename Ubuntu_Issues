@@ -4,3 +4,6 @@ Here are the issues I got when I am working with ubuntu and their solutions.
 --> To start the watches DO THIS.
 
 sudo sysctl fs.inotify.max_user_watches=524288
+
+--> Set the maximux heap memory size for node when head gets out of memory.
+DO.This --> export NODE_OPTIONS=--max_old_space_size=4096
