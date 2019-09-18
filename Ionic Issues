@@ -1,1 +1,6 @@
+The slliest issue I which took my hours.
+https://github.com/lovell/sharp-libvips/issues/14
+Solution was that I have to delete the Darwin file from .npm/_libvips
+
+################################################### Next ###################################################################
 
