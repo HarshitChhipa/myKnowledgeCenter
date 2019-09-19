@@ -4,3 +4,7 @@ Solution was that I have to delete the Darwin file from .npm/_libvips
 
 ################################################### Next ###################################################################
 
+Believe it or not that one command will save your a lot of time.
+make a standalone command. To run it smoothly.
+
+https://github.com/xpbrew/cordova-sqlite-storage/issues/856
