@@ -1,1 +1,2 @@
-
+Remove remote brnach from local.
+git push remote_name :branch_name
