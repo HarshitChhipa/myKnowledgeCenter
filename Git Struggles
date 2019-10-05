@@ -1,2 +1,3 @@
 Remove remote brnach from local.
+git checkout -b branch_name Branch_from_which_you_want_create_a_new_branch
 git push remote_name :branch_name
