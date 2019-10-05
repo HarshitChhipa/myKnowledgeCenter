@@ -1,0 +1,2 @@
+REGEX for break name Into FirstName and LastName.
+"Harshit Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa".match(/(\S+)\s(.*)(.*)/)
