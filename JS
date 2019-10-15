@@ -117,3 +117,13 @@ Object.keys(obj).reduce((acc, key) => (acc[key] = obj[key], acc), {}) is another
 #################################################### NEW ###################################################
 Here is the article for the memory leakage for reference.
 https://medium.com/javascript-in-plain-english/memory-leaks-and-garbage-collection-%EF%B8%8F-in-javascript-you-need-to-know-this-3fa8173e8b3c
+
+################################################### NEW #####################################################
+Question : A thoughtful question is asked by my collegue.
+
+(function(){
+var a = b = 10;
+console.log(a,b);
+}())
+console.log(b);
+console.log(a);
