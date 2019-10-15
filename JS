@@ -112,3 +112,8 @@ Other alternatives include:
 2) JSON.parse(JSON.stringify(obj)) can be used to deep-clone a simple object, but it is CPU-intensive and only accepts valid JSON (therefore it strips functions and does not allow circular references).
 Object.assign({}, obj) is another alternative.
 Object.keys(obj).reduce((acc, key) => (acc[key] = obj[key], acc), {}) is another more verbose alternative that shows the concept in greater depth.
+
+
+#################################################### NEW ###################################################
+Here is the article for the memory leakage for reference.
+https://medium.com/javascript-in-plain-english/memory-leaks-and-garbage-collection-%EF%B8%8F-in-javascript-you-need-to-know-this-3fa8173e8b3c
