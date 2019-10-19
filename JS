@@ -131,3 +131,6 @@ console.log(a);
 Answer: b will be 10 and a will be undeclared
 Explanation: var a = b = 10 is evaluated as b = 10 and var a = b; hence b has a value 10 and by default goes in global scope.
 but as a has not been declared out of the IIF hence will be undeclared.
+
+################################################### NEW ######################################################
+https://medium.com/@konecth/if-a-b-c-d-e-a696e637c85d
