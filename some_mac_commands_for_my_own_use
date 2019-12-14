@@ -3,3 +3,7 @@ For Long Files --> less {{File_name}}
 For normal we can use --> cat {{File_name}}
 
 ############################################# END #######################################################
+ Find folder's size in Terminal
+
+--> du -sh * (* --> for all files , -s is for  specified to a line, -h is for the human readable format)
+############################################# END #######################################################
