@@ -1,1 +1,10 @@
+################################################# START ###################################################
 
+brew services stop mongodb
+brew uninstall mongodb
+
+brew tap mongodb/brew
+brew install mongodb-community
+brew services start mongodb-community
+
+################################################# END #####################################################
