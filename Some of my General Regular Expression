@@ -1,2 +1,11 @@
+^ --> Starting of the string.
+$ --> EXact Ending.
+
 REGEX for break name Into FirstName and LastName.
 "Harshit Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa".match(/(\S+)\s(.*)(.*)/)
+
+#################################################### START #####################################################
+Here is the list of Regex for HACKERRANK's REGEX context.
+/^(.{3}\.){3}.{3}$/g --> 
+
+#################################################### END #######################################################
