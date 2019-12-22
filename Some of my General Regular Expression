@@ -1,5 +1,9 @@
 ^ --> Starting of the string.
-$ --> EXact Ending.
+$ --> Exact Ending.
+\d --> For all the digit.
+\D --> NON DIGIT.
+\s --> Whitespace chacracter.
+\S --> Non-Whitespace Character.
 
 REGEX for break name Into FirstName and LastName.
 "Harshit Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa".match(/(\S+)\s(.*)(.*)/)
