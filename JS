@@ -134,3 +134,8 @@ but as a has not been declared out of the IIF hence will be undeclared.
 
 ################################################### NEW ######################################################
 https://medium.com/@konecth/if-a-b-c-d-e-a696e637c85d
+
+################################################### NEW #####################################################
+
+https://css-tricks.com/sliding-nightmare-understanding-range-input/
+--> Smooth range slider for IOS.
