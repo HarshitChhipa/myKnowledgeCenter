@@ -1,9 +1,10 @@
-^ --> Starting of the string.
-$ --> Exact Ending.
+^  --> Starting of the string.
+$  --> Exact Ending.
 \d --> For all the digit.
 \D --> NON DIGIT.
 \s --> Whitespace chacracter.
 \S --> Non-Whitespace Character.
+?  --> Add this at the end of value which is optional.
 
 REGEX for break name Into FirstName and LastName.
 "Harshit Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa".match(/(\S+)\s(.*)(.*)/)
@@ -14,6 +15,10 @@ Here is the list of Regex for HACKERRANK's REGEX context.
 
 #################################################### END #######################################################
 
+#################################################### START #######################################################
+
 Regex For getting the http link and title from the url without using split.
 As Split run's an loop inside and will be more of time and resource consuming.
 =====> ('external?url=https://www.harshit-chhipa.com&title=UserProfile').match(/url=([^&]*)(&title=(.*))?/);
+
+#################################################### END #######################################################
