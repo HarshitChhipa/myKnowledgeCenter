@@ -14,4 +14,6 @@ Here is the list of Regex for HACKERRANK's REGEX context.
 
 #################################################### END #######################################################
 
-('external?url=https://www.harshit-chhipa.com&title=UserProfile').match(/url=([^&]*)(&title=(.*))?/);
+Regex For getting the http link and title from the url without using split.
+As Split run's an loop inside and will be more of time and resource consuming.
+=====> ('external?url=https://www.harshit-chhipa.com&title=UserProfile').match(/url=([^&]*)(&title=(.*))?/);
