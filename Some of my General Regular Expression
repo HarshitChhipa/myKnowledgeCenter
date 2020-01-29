@@ -13,3 +13,5 @@ Here is the list of Regex for HACKERRANK's REGEX context.
 /^(.{3}\.){3}.{3}$/g --> 
 
 #################################################### END #######################################################
+
+('external?url=https://www.harshit-chhipa.com&title=UserProfile').match(/url=([^&]*)(&title=(.*))?/);
