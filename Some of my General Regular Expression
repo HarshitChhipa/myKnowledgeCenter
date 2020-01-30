@@ -8,7 +8,6 @@ $  --> Exact Ending.
 \w --> Will match any word character {a-z,A-z,0-9,_}
 \W --> Will match other than word character
 (AnySign we wanted to repeated number of times){Number} ==> (\w{3}\W\w{10}\W\w{3})
-
 REGEX for break name Into FirstName and LastName.
 "Harshit Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa".match(/(\S+)\s(.*)(.*)/)
 
