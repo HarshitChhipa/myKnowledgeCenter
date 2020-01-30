@@ -5,7 +5,7 @@ $  --> Exact Ending.
 \s --> Whitespace chacracter.
 \S --> Non-Whitespace Character.
 ?  --> Add this at the end of value which is optional.
-\w --> Will match any word character {a-z,A-z,_}
+\w --> Will match any word character {a-z,A-z,0-9,_}
 \W --> Will match other than word character
 
 REGEX for break name Into FirstName and LastName.
