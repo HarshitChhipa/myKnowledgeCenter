@@ -1,3 +1,5 @@
+A Good Site to learn more abour regex --> https://www.regular-expressions.info/shorthand.html
+
 ^  --> Starting of the string.
 $  --> Exact Ending.
 \d --> For all the digit.
