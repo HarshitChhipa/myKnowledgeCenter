@@ -13,7 +13,9 @@ $  --> Exact Ending.
 [^] --> use Square brackets not match only one character.{The negated character class [^] matches any character that is not in the square brackets}
 (AnySign we wanted to repeated number of times){Number} ==> (\w{3}\W\w{10}\W\w{3})
 
-Negative Lookahead ==> (?<![aeiou])
+Negative Lookahead ==> (?<![aeiou]) === not have aeiou 
+Postive Lookahead ==> c(?=0) === chocolate
+
 REGEX for break name Into FirstName and LastName.
 "Harshit Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa Chhipa".match(/(\S+)\s(.*)(.*)/)
 
