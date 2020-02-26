@@ -24,7 +24,7 @@ function endsWith($haystack, $needle)
 
 endsWith('Hi, this is me', 'me'); // true
 
-# --> Without Function.
+# Without Function.
  
  Filters out the elements of an array, that have one of the specified values.
 function without($items, ...$params)
