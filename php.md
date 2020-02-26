@@ -13,8 +13,6 @@ function fibonacci($n)
 
 fibonacci(6); // [0, 1, 1, 2, 3, 5]
 
-########################################################################################################3
-
 endsWith
 
 Check if a string is ends with a given substring.
@@ -26,9 +24,7 @@ function endsWith($haystack, $needle)
 
 endsWith('Hi, this is me', 'me'); // true
 
-################################################# ENDS HERE ###############################################################
-################################################# Starts Here #############################################################
- --> Without Function.
+# --> Without Function.
  
  Filters out the elements of an array, that have one of the specified values.
 function without($items, ...$params)
