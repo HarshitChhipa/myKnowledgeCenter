@@ -1,4 +1,4 @@
-Generates an array, containing the Fibonacci sequence, up until the nth term.
+## Generates an array, containing the Fibonacci sequence, up until the nth term.
 
 function fibonacci($n)
 {
