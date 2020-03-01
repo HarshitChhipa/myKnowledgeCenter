@@ -1,4 +1,4 @@
-############################ MAC #########################
+# MAC
 
 Install Android Studio's dmg file.
 
