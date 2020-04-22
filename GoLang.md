@@ -1,1 +1,2 @@
-
+# Getting all the dependencies in an existing go package.
+go get -v -t ./...
