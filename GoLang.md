@@ -11,5 +11,5 @@ https://itnext.io/how-to-create-your-own-cli-with-golang-3c50727ac608?gi=7ddac83
 https://medium.com/@hatajoe/clean-architecture-in-go-4030f11ec1b1
 
 # More about JWT.
-##https://www.sohamkamani.com/golang/2019-01-01-jwt-authentication/ ##
+## https://www.sohamkamani.com/golang/2019-01-01-jwt-authentication/ ##
 ### https://www.nexmo.com/blog/2020/03/13/using-jwt-for-authentication-in-a-golang-application-dr ###
