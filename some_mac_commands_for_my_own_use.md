@@ -13,3 +13,6 @@ brew update
 brew install php@7.3
 brew link php@7.3
 And reload the terminal
+
+# Open a RAR File without any application.
+## brew Install unrar
