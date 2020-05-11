@@ -15,4 +15,5 @@ brew link php@7.3
 And reload the terminal
 
 # Open a RAR File without any application.
-## brew Install unrar
+- brew Install unrar
+- unrar e file.rara ../destinationFolder/
