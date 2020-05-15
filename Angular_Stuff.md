@@ -8,4 +8,5 @@ https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intui
 
 We can use safe operator before the length check (Shocking isn't it){Just had a conversation with someone today --18/Nov/2019}
 
-### https://medium.com/angular-in-depth/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
+# Depth guide for interceptor
+https://medium.com/angular-in-depth/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
