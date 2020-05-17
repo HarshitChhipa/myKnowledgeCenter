@@ -16,4 +16,4 @@ And reload the terminal
 
 # Open a RAR File without any application.
 - brew Install unrar
-- unrar e file.rara ../destinationFolder/
+- unrar e file.rar ../destinationFolder/
