@@ -9,10 +9,10 @@ du -sh * (* --> for all files , -s is for  specified to a line, -h is for the hu
 sudo lsof -i :PORT_NUMBER
 
 # While install laravel in mac os(Catlina) it might not found a package called ext-zip.
-brew update
-brew install php@7.3
-brew link php@7.3
-And reload the terminal
+- brew update
+- brew install php@7.3
+- brew link php@7.3
+- And reload the terminal
 
 # Open a RAR File without any application.
 - brew Install unrar
