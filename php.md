@@ -1,3 +1,5 @@
+# Run a server in mac to server php pages.
+php -S 127.0.0.1:any_port_no
 
 # Generates an array, containing the Fibonacci sequence, up until the nth term.
 
