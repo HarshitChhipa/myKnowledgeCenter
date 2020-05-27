@@ -15,3 +15,6 @@ https://makandracards.com/makandra
 
 ### Going back on some commit or simply resetting your branch to your code.
 git reset {{commitId}} 
+
+### A very good article on reset and revert
+https://opensource.com/article/18/6/git-reset-revert-rebase-commands
