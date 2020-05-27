@@ -1,4 +1,4 @@
-Remove remote brnach from local.
+# Remove remote brnach from local.
 git checkout -b branch_name Branch_from_which_you_want_create_a_new_branch
 git push remote_name :branch_name
 ######################################### Reverting your changes back to the where you started###############################
@@ -13,4 +13,6 @@ Either ways is to do --soft to have the history.
 -----------------------------_############################----------------------------------
 This website is so awesome and simple for GIT.
 https://makandracards.com/makandra
-------------------------------###########################-----------------------------------
+-----------------------------###########################-----------------------------------
+### Going back on some commit or simply resetting your branch to your code.
+git reset {{commitId}} 
