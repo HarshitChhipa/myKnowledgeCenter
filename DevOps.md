@@ -1,7 +1,7 @@
-This conatins all my data that i will be reading to build my awesome things and deploy it.
+# This conatins all my data that i will be reading to build my awesome things and deploy it.
 
-############################################ Starts Here ###############################################################
---> Reagrding the issue i face when i was deploying my static Angular apps to github.
+## starts Here
+Reagrding the issue i face when i was deploying my static Angular apps to github.
 
 https://dzone.com/articles/how-to-deploy-an-angular-application-to-github
 
