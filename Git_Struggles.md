@@ -22,3 +22,6 @@ https://opensource.com/article/18/6/git-reset-revert-rebase-commands
 ### Show remote Urls
  - git remote -v
  - git remote rm {names you got from above cmd}
+ 
+### Merge unrelated histories
+- git pull origin master --allow-unrelated-histories
