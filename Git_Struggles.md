@@ -1,4 +1,4 @@
-# Remove remote brnach from local.
+# Remove remote branch from local.
 git checkout -b branch_name Branch_from_which_you_want_create_a_new_branch
 git push remote_name :branch_name
 ## Reverting your changes back to the where you started
@@ -18,3 +18,7 @@ git reset {{commitId}}
 
 ### A very good article on reset and revert
 https://opensource.com/article/18/6/git-reset-revert-rebase-commands
+
+### Show remote Urls
+ - git remote -v
+ - git remote rm {names you got from above cmd}
