@@ -15,3 +15,4 @@
 - ``
 
 ## Firebase Push Notification in flutter
+ - Do all the things Written here[https://pub.dev/packages/firebase_messaging#-readme-tab-]
