@@ -16,3 +16,6 @@
 
 ## Firebase Push Notification in flutter
  - Do all the things Written here[https://pub.dev/packages/firebase_messaging#-readme-tab-]
+ 
+## A very informal Article for code shrinker of flutter.
+ - https://medium.com/@olawale_alabi/android-flutter-64k-methods-dex-limit-how-to-use-proguard-in-development-728af11a4e22
