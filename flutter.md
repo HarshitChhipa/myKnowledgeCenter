@@ -21,4 +21,5 @@
  - https://medium.com/@olawale_alabi/android-flutter-64k-methods-dex-limit-how-to-use-proguard-in-development-728af11a4e22
  
 ## Playing With Flutter(Do not play I repeat Do not play with Gradle in flutter or In Android)
- - 
+ - Keep this in Mind https://developer.android.com/studio/releases/gradle-plugin.html#updating-gradle
+ - When you update your exising flutter project or any Android Project just sync gradle and don't put NonCompatible versions.
