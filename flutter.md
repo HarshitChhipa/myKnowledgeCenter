@@ -23,3 +23,4 @@
 ## Playing With Flutter(Do not play I repeat Do not play with Gradle in flutter or In Android)
  - Keep this in Mind https://developer.android.com/studio/releases/gradle-plugin.html#updating-gradle
  - When you update your exising flutter project or any Android Project just sync gradle and don't put NonCompatible versions.
+ - Gradle versions should be in sync update it `Very Very Carefull`.
