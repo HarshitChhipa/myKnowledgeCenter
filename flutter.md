@@ -12,7 +12,7 @@
 - and then `flutter run` or `flutter build apk`
 
 ## Making a Release build for playstore.
-- ``
+- Try to make appbundles as they are compatible with 32 and 64 bit `flutter build appbundle`
 
 ## Firebase Push Notification in flutter
  - Do all the things Written here[https://pub.dev/packages/firebase_messaging#-readme-tab-]
