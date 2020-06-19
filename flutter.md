@@ -13,6 +13,7 @@
 
 ## Making a Release build for playstore.
 - Try to make appbundles as they are compatible with 32 and 64 bit `flutter build appbundle`
+- `Always remember that new release version should be greater than the last available.`
 
 ## Firebase Push Notification in flutter
  - Do all the things Written here[https://pub.dev/packages/firebase_messaging#-readme-tab-]
