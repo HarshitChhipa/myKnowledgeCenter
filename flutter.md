@@ -25,3 +25,6 @@
  - Keep this in Mind https://developer.android.com/studio/releases/gradle-plugin.html#updating-gradle
  - When you update your exising flutter project or any Android Project just sync gradle and don't put NonCompatible versions.
  - Gradle versions should be in sync update it `Very Very Carefull`.
+
+## Some amazing resources on FLutter.
+- [Link](https://flutterawesome.com/a-nice-flutter-furniture-app/)
