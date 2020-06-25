@@ -18,3 +18,6 @@
 
 # Stop container with id d86ead82e236
 `docker stop d86ead82e236`
+
+# Remove all containers
+`docker rm $(docker ps -a -q)`
