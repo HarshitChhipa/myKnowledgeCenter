@@ -12,3 +12,6 @@
 
 # Tag you build with a new
 `docker tag mywebapp harshit/mywebapp`
+
+# Push out to docker hub…
+`docker push harshit/mywebapp`
