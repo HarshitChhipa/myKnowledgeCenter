@@ -27,3 +27,6 @@
 
 # Force delete image
 `docker rmi asdf8wewrw –f`
+
+# Force delete all images
+`docker rmi $(docker images -q)`
