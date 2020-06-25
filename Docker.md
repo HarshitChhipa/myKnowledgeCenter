@@ -8,4 +8,7 @@
 `docker commit c5534sdf343 my-new-image`
 
 # Create an image from a dockerfile in this directory "."
-docker build -t "some-image" .
+`docker build -t "some-image" .`
+
+# Tag you build with a new
+`docker tag mywebapp poppastring/mywebapp`
