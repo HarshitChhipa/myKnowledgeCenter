@@ -25,3 +25,6 @@ https://opensource.com/article/18/6/git-reset-revert-rebase-commands
  
 ### Merge unrelated histories
 - git pull origin master --allow-unrelated-histories
+
+# REBASE
+- Rebase integrated changes from one branch to another and it puts them in a linear way and it rewrites the commit history to produce linear commits.
