@@ -1,2 +1,2 @@
 # Show a list of images
-```docker images```
+- `docker images`
