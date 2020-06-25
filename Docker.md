@@ -21,3 +21,6 @@
 
 # Remove all containers
 `docker rm $(docker ps -a -q)`
+
+# List only the stopped containers
+`docker ps --filter "status=exited"`
