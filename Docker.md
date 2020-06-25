@@ -24,3 +24,6 @@
 
 # List only the stopped containers
 `docker ps --filter "status=exited"`
+
+# Force delete image
+`docker rmi asdf8wewrw –f`
