@@ -11,4 +11,4 @@
 `docker build -t "some-image" .`
 
 # Tag you build with a new
-`docker tag mywebapp poppastring/mywebapp`
+`docker tag mywebapp harshit/mywebapp`
