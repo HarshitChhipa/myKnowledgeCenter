@@ -15,3 +15,6 @@
 
 # Push out to docker hub…
 `docker push harshit/mywebapp`
+
+# Stop container with id d86ead82e236
+`docker stop d86ead82e236`
