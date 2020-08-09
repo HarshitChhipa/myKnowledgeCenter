@@ -4,3 +4,4 @@
   - [Setup Laravel](https://medium.com/@idelara/step-by-step-guide-manually-deploying-a-laravel-app-running-on-lemp-to-an-aws-ec2-lightsail-d4792fd5c920)
   - [Setup Laravel Another](https://medium.com/@daniel.sagita/hosting-laravel-in-amazon-lightsail-50a5c4bfcc76)
   - (How to use free tier)[https://aws.amazon.com/premiumsupport/knowledge-center/free-tier-charges/]
+  - (Saving Plan Details)[https://aws.amazon.com/savingsplans/pricing/]
