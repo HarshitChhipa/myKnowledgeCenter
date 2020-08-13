@@ -139,3 +139,25 @@ https://medium.com/@konecth/if-a-b-c-d-e-a696e637c85d
 
 https://css-tricks.com/sliding-nightmare-understanding-range-input/
 --> Smooth range slider for IOS.
+
+#################################################### NEW ####################################################
+It is all about reduce in JS.
+Reduce is a freaking like a magic to me it can be use to do wonderus things.
+It is majorly have 2 things 1 is Callback function And 2 is the initial value Eg. arrrayData.reduce(callback,initialValue);
+Callback ==> is a function which return's Only one value. Callback takes two things one is an Accumulator which simply can be recalled as final value and item/dataOneByOne.
+Eg:- dataArray.reduce((accumulator,oneItem)=> {
+// Do your thing here.
+return accumulator
+},initialValue);
+
+One trickey Eg const egArrayToBeFalatten = [1,2,3,[1,2,3,[1,[34,56,22],3]],[4,3,42,1]]
+
+const makesAnyArrayFlatten = (data) => {
+const initialValue = [];
+return data.reduce((accumulator,item) => {
+return accumulator.concat(Arreay.isArray(item) ? makesAnyArrayFlatten(item) : item);
+}, initialValue);
+}; 
+
+Output -->  [ 1, 2, 3, 1, 2, 3, 1, 34, 56, 22, 3, 4, 3, 42, 1 ]
+
