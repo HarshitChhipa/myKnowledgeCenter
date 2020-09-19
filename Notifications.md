@@ -1,4 +1,4 @@
-# This related to the work I did to solve the Notification success rate.
+# This is related to the work I did to solve the Notification success rate.
 ## Problem -  We Send almost 30K notification and the success rate was only 20K and its just one scenario there are many more than Lac with same success rate.
 ---
 ## Solution
