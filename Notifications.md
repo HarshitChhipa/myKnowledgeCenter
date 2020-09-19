@@ -4,7 +4,7 @@
 ## Solution
 - We used third party to send our push notification or we run campaign on that platform for specific set of consumer so the devices we were troubling were Xiaomi and huawei.
 - Now the Thing is Mi and Huawei have their own push servers to use them we needed to integrate their SDK into our application after integration I wrote our custom methods to handel the notification and it worked like a charm.
-
+---
 ## Key learing
 
 - Learned how to integrate any SDK with Android.
