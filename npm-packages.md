@@ -13,3 +13,7 @@ If you got any issues with node-sass install it individually
 - follow the standard Eacess solved by npm.
 - sudo chown -R npm `whoami` ~/.npm
 - sudo chown -R npm `whoami` /usr/local/bin/node_modules
+
+
+# Tool for building cordova plugin.
+- `npm i -g plugman`
