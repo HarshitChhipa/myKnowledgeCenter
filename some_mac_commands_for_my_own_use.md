@@ -17,3 +17,8 @@ sudo lsof -i :PORT_NUMBER
 # Open a RAR File without any application.
 - brew Install unrar
 - unrar e file.rar ../destinationFolder/
+
+# Open Private Files in mac.
+
+--> GO to Filder and click on upper menu GO --> GO TO FOLDER
+--> Type Folder path  eg. --> /private/etc/hosts
