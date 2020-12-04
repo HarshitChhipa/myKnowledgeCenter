@@ -169,4 +169,5 @@ How == works.
 it basically converts the following things in order to compare.
 
 -- Booleans are converted into numbers like true --> 1 false --> 0
+-- Objects are converted into string like [1] (IN JS everything is object) is converted to '1' [1,2,3] to '1,2,3'
 -- String are converted 
