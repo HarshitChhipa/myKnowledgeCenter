@@ -31,3 +31,7 @@ https://opensource.com/article/18/6/git-reset-revert-rebase-commands
 ## Steps to rebase 
 - `git checkout ourBranch`
 - `git rebase branchFromWhichchangesareToBeAdded`
+
+
+---
+Delete local branch in git .... git branch -d branch_name
