@@ -34,4 +34,5 @@ https://opensource.com/article/18/6/git-reset-revert-rebase-commands
 
 
 ---
-Delete local branch in git .... git branch -d branch_name
+Delete local branch in git ```git branch -d branch_name```
+Delete Remote branch from local ```git push origin --delete branch_name```
