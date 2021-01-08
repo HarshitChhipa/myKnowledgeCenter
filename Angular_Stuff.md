@@ -10,3 +10,6 @@ We can use safe operator before the length check (Shocking isn't it){Just had a 
 
 # Depth guide for interceptor
 https://medium.com/angular-in-depth/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6
+
+
+# To Deploy An SPA in Angular we need to impliment caching.
