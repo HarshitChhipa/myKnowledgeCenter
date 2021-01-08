@@ -13,3 +13,4 @@ https://medium.com/angular-in-depth/top-10-ways-to-use-interceptors-in-angular-d
 
 
 # To Deploy An SPA in Angular we need to impliment caching.
+ - https://github.com/HarshitChhipa/ghpages-deploy-angular-app see the 404.html file and and index.html for caching related script.
