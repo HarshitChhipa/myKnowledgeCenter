@@ -173,4 +173,10 @@ it basically converts the following things in order to compare.
 -- if a number and string are left string is converted into number '1' --> 1 '123' --> 123
 -- null and undefined are equal to one another.
 
+------------------------------------------- Core JavaScript Stuff --------------------------------------------------
+1. Promise
+When a promise is rejected there are two events fired for either global object or in case of web-worker worker class or similar worker based interface.
+ - rejectionHandled - unHandledRejection
+
+
 
